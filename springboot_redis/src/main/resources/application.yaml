@@ -1,9 +1,0 @@
-spring:
-    application:
-        name: springboot_redis
-    session:
-        store-type: redis
-    data:
-        redis:
-            host: redis-server
-            port: 6379
